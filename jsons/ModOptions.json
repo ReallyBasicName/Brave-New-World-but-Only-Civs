@@ -1,8 +1,5 @@
 {
 	"isBaseRuleset": false,
-	"buildingsToRemove": [
-		"National Treasury" // Replaced by East India Company https://civilization.fandom.com/wiki/East_India_Company_(Civ5)
-	],
 	"nationsToRemove": [
 		"Jakarta",
 		"Lisbon",
@@ -11,20 +8,6 @@
 		"Dublin",
 		"Rio de Janeiro",
 		"Edinburgh",
-		"Helsinki"
-	],
-	"policiesToRemove": [
-		"Free Religion",
-		"Educated Elite",
-		"Trade Unions",
-		"Populism",
-		"Fascism",
-		"Planned Economy",
-		"Socialism",
-		"Communism",
-		"Constitution",
-		"Democracy",
-		"Free Speech"
 	],
 	"uniques": [
 		"Mod requires [Civ V - Gods & Kings]",
