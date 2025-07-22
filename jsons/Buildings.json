@@ -63,6 +63,7 @@
 			"[+1 Science] per [2] population [in this city]",
 			"New [Military] units start with [10] XP [in this city]"
 		],
+		"requiredTech": "Writing"
 	},
 	{
         "name": "Ducal Stable",
