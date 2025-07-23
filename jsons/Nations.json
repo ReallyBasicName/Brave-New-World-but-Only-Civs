@@ -114,7 +114,7 @@
 		"adjective": ["Zulu"],
 		"startBias": ["Avoid [Jungle]"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Christianity",
 		"personality": "Shaka",
 
 		"startIntroPart1": "Your people kneel before you, great warrior Shaka of the Zulu Kingdom. As you rose from a place of exile to become the true leader of the Zulus, you ushered in changes throughout the Zulu society, implementing new laws and cultural reforms that strengthened the position of your kingdom. However, it was your tenacity in the art of war that truly established your reputation, as your tactics and strategies on the battlefield forever changed the face of combat across the plains of southern Africa.",
@@ -283,7 +283,7 @@
 		"leaderName": "Pocatello",
 		"adjective": ["Shoshone"],
 		"preferredVictoryType": "Scientific",
-		"favoredReligion": "Protestantism",
+		"favoredReligion": "Christianity",
 		"personality": "Pocatello",
 
 		"startIntroPart1": "Blessings be upon you, wise and fearsome Chief Pocatello, revered leader of the Shoshone people. As the young chieftain of the Shoshone, you rose to face a wave of encroaching American settlements across the western United States. Forced to defend the Shoshone ancestral lands from a seemingly endless stream of new emigrants, your war band struck fear into those who would claim the sacred lands of your people. After years of strife, you skillfully avoided a direct conflict with the armies of the U.S. government, and negotiated a series of treaties in the hopes of establishing a lasting peace for the Shoshone.",
